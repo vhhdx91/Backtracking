@@ -1,2 +1,2 @@
 # Programming
-This contains the programs that follow the backtracking programming approach
+This contains algorithms that are implemented using various approaches
